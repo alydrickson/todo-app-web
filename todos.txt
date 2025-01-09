@@ -1,0 +1,4 @@
+master python
+master numbpy
+master pandas
+master SQL
